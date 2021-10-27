@@ -147,7 +147,14 @@ h3 {
    padding-top: 5px;
 }
 
-@media screen and (max-width: 900px) {
+@media screen and (max-width: 1370px) {
+    .container {
+        padding-left: 10%;
+        padding-right: 10%;
+    }
+}
+
+@media screen and (max-width: 1060px) {
 
     .container {
         padding-left: 5%;
