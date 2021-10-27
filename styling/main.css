@@ -58,7 +58,7 @@ a:hover {
 }
 
 .active {
-    color: rgb(0, 238, 159);
+    border-bottom: 2px solid rgb(0, 238, 159);
 }
 
 .decor {
